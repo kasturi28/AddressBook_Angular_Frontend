@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'address-book-app-angular';
+  title = 'AddressBook';
+  contactlogo="../assets/addressbookLogo.png.jpg";
+
 }
